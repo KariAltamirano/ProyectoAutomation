@@ -26,5 +26,5 @@ for i in range(5):
         precio = precio + 20000
     elif color == 'negro':
         precio = precio + 30000
-    print("La persona: "+nombre+" "+apellido+" compro un auto marca "+marca+" de "+puertas+" puertas y color "+color+" con un precio de $"+ str(precio))
+    print("La persona: "+nombre+" "+apellido+" compro un auto marca "+marca+" de "+puertas+" puertas y color "+color+" con un precio de $"+precio) 
           
